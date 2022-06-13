@@ -11,4 +11,5 @@ Abra o Project Students em um terminal e digite o comando `npm i && npm start` e
 Cadastre um usuário ou utilize o usuário já cadastrado a baixo e a aplicação está pronta para uso
 
 User: Usuario
+
 Password: Senha1
