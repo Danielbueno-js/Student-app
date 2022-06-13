@@ -1,7 +1,7 @@
 # Student-app
 Aplicação para visualizar, criar, editar e excluir estudantes
 
-Para executar o programa é necessário abrir o back-end no terminal e digite o comando `npm i && npm start`, deverá aparecer a mensagem "Conectado ao DB!" que significa que o a conexão com a nuvem foi feita com sucesso e o back-end está disponível para uso.
+Para executar o programa é necessário abrir o back-end no terminal e digitar o comando `npm i && npm start`, deverá aparecer a mensagem "Conectado ao DB!" que significa que o a conexão com a nuvem foi feita com sucesso e o back-end está disponível para uso.
 
 Abra o Project Students em um terminal e digite o comando `npm i && npm start` e navegue até http://localhost:3000
 
