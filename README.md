@@ -13,3 +13,6 @@ Cadastre um usuário ou utilize o usuário já cadastrado a baixo e a aplicaçã
 User: Usuario
 
 Password: Senha1
+
+obs: caso ao digitar o comando `npm start` ocorra o seguinte erro `'nodemon' is not recognized as an internal or external command,
+operable program or batch file.` é necessario digitar o comando `npm install nodemon` pois o mesmo é preciso para conexão ao banco de dados.
